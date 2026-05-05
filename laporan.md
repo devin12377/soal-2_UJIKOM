@@ -18,4 +18,4 @@ Sistem menggunakan **PHP PDO** dengan **Prepared Statements** untuk mencegah *SQ
 ## 4. Hasil Uji Coba
 Berikut adalah hasil running program yang menampilkan data dalam format JSON:
 
-<Screenshot 2026-05-05 145719.png>
+![Hasil Running](<Screenshot 2026-05-05 145719.png>)
